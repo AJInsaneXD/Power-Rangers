@@ -1,0 +1,39 @@
+.body_backgorund 
+{
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
+.mb {
+	position: fixed;
+ bottom: 0px;
+   font-family: 'Mochiy Pop P One', cursive;
+}
+
+.link {
+    float: bottom;
+    color: rgb(255, 255, 255);
+    bottom: 0px;
+    font-family: 'MonteCarlo', cursive;
+    font-size: 20px;
+    display: inline;
+}
+.link:hover {
+    background-color: rgb(255, 0, 0);
+    text-decoration: underline;
+    font-size: 25px;
+}
